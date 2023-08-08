@@ -1,0 +1,36 @@
+.hidden {
+  display: none;
+}
+body {
+  background-color: lightblue;
+  font-family: 'Noto Serif', serif;
+}
+
+h1 {
+  font-family: 'Noto Serif', serif;
+  font-weight: 600;
+  font-size: 54px;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+p{
+  font-family: 'Noto Serif', serif;
+  font-weight: 400;
+  font-size: 16px;
+}
+
+#form {
+  font-family: 'Noto Serif', serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+}
+
+.input{
+  font-family: 'Noto Serif', serif;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+}
